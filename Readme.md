@@ -42,13 +42,8 @@ pip install -r requirements.txt
 
 ## Dataset
 
-This project is developed using a proprietary dataset of histopathological images. For access or more information on the dataset, please contact the authors.
+This project is developed using two proprietary dataset of histopathological images. The PAIP 2019 dataset can be downloaded via [http://wisepaip.org/paip/boards/guide](http://wisepaip.org/paip/boards/guide). For access or more information on the dataset, please contact the authors.
 
-## Updates
-
-- **23-11**: Addition of Transformer model training script.
-- **23-05**: Released the new Global Normalised CAM utility notebooks.
-- **23-03**: Update on dataset access for external collaborators.
 
 ## Contributing
 
