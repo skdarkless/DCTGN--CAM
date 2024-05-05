@@ -56,14 +56,15 @@ Contributions to this project are welcome! Please refer to the following guideli
 This work is licensed under a Creative Commons Attribution 4.0 International License. If you use this tool or dataset in your research, please cite it as follows:
 
 ```bibtex
-@article{YourWork2024,
-  title={Sketch-supervised Histopathology Tumour Segmentation: Dual CNN-Transformer with Global Normalised CAM},
-  author={Your Name and Collaborator Names},
-  journal={Journal or Conference Name},
-  year={2024}
-}
+@ARTICLE{10164237,
+  author={Li, Yilong and Wang, Linyan and Huang, Xingru and Wang, Yaqi and Dong, Le and Ge, Ruiquan and Zhou, Huiyu and Ye, Juan and Zhang, Qianni},
+  journal={IEEE Journal of Biomedical and Health Informatics}, 
+  title={Sketch-Supervised Histopathology Tumour Segmentation: Dual CNN-Transformer With Global Normalised CAM}, 
+  year={2024},
+  volume={28},
+  number={1},
+  pages={66-77},
+  keywords={Tumors;Annotations;Image segmentation;Training;Transformers;Feature extraction;Histopathology;Sketch supervision;tumour segmentation;transformer;global normalised CAM},
+  doi={10.1109/JBHI.2023.3289984}}
+
 ```
-
-## Acknowledgements
-
-This project is supported by [Your University/Institution Name]. We thank our colleagues who contributed to this project and provided insights and expertise.
