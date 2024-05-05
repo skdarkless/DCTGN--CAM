@@ -1,0 +1,14 @@
+torch
+torchvision
+tensorflow
+keras
+keras_efficientnet_v2
+tf_keras_vis
+scikit-learn
+matplotlib
+fastprogress
+Pillow
+pandas
+opencv-python
+pydot
+openslide-python
