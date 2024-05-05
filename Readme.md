@@ -2,7 +2,7 @@
 # Sketch-supervised Histopathology Tumour Segmentation: Dual CNN-Transformer with Global Normalised CAM
 
 Welcome to our GitHub repository dedicated to advancing histopathology tumour segmentation using a novel approach that combines Convolutional Neural Networks (CNNs) and Transformers with a Global Normalised Class Activation Map (CAM). This project aims to leverage sketch-supervised learning techniques to improve segmentation accuracy and interpretability in histopathological images.
-
+This repository serves as a comprehensive framework for testing your custom-designed models.
 ## Repository Structure
 
 ```
@@ -42,7 +42,7 @@ pip install -r requirements.txt
 
 ## Dataset
 
-This project is developed using two proprietary dataset of histopathological images. The PAIP 2019 dataset can be downloaded via [http://wisepaip.org/paip/boards/guide](http://wisepaip.org/paip/boards/guide). For access or more information on the dataset, please contact the authors.
+This project is developed using two proprietary dataset of histopathological images. The PAIP 2019 dataset can be downloaded via [http://wisepaip.org/paip/boards/guide](http://wisepaip.org/paip/boards/guide). The full datasets are protected because of privacy issues and regulation policies in hospitals. For access or more information on the dataset, please contact the authors.
 
 
 ## Contributing
