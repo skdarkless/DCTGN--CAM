@@ -35,8 +35,8 @@ Welcome to our GitHub repository dedicated to advancing histopathology tumour se
 To get started with this project, clone the repository and install the required dependencies. Follow the instructions in each script and notebook for detailed steps on training and evaluating the models.
 
 ```bash
-git clone https://github.com/yourgithubusername/histopathology-tumour-segmentation.git
-cd histopathology-tumour-segmentation
+git clone https://github.com/skdarkless/DCTGN--CAM.git
+cd DCTGN--CAM
 pip install -r requirements.txt
 ```
 
